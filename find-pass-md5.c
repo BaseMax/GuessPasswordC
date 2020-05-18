@@ -131,7 +131,7 @@ unsigned *passwd( const char *msg, int mlen)
 
 int main(void) {
 	printf("Hi, You are trying to get list of string and values in memory using **mingw** tools kits.\nIt's a pure c program using glibc library.\nEnjoy your trying, I like your skills.\n");
-	char *name="Niyoosha";
+	char *name="Name";
 	while(1) {
 		#define MAX     96
 		char pass[MAX];
