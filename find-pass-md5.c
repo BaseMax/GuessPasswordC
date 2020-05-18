@@ -1,5 +1,5 @@
 // Max Base
-// https://github.com/BaseMax/FindPasswordC
+// https://github.com/BaseMax/GuessPasswordC
 // Use a implenment of md5
 #include <stdlib.h>
 #include <stdio.h>
