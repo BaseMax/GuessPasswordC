@@ -1,5 +1,5 @@
 // Max Base
-// https://github.com/BaseMax/FindPasswordC
+// https://github.com/BaseMax/GuessPasswordC
 #include <iostream>
 using namespace std;
 int main() {
