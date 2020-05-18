@@ -16,6 +16,10 @@ A small program to guess password for some crackers who want to enjoy by trying.
 php variable-generator.php > variables.h
 ```
 
+## Baseod on
+
+- https://github.com/BaseMax/cMD5/ (Extracted from existing sources)
+
 ---------
 
 # Max Base
