@@ -13,6 +13,6 @@ A small program to guess password for some crackers who want to enjoy by trying.
 ## Create variables for spam
 
 ```
-php variable-generator.php > variables.txt
+php variable-generator.php > variables.h
 ```
 
