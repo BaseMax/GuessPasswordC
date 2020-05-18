@@ -1,5 +1,6 @@
 // Max Base
 // https://github.com/BaseMax/GuessPasswordC
+// Correct password is: HfOFKFS1G5F6DFGD5F6@!?miss
 #define a int
 #define b (
 #define xmjfigdfg jfdigjweoirwjeiorwer
