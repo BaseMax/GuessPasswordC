@@ -1,6 +1,8 @@
-# FindPasswordC
+# Guess Password C
 
 A small program to guess password for some crackers who want to enjoy by trying...
+
+# FindPasswordC
 
 ## Compiling
 
