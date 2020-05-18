@@ -20,6 +20,8 @@ php variable-generator.php > variables.h
 
 - https://github.com/BaseMax/cMD5/ (Extracted from existing sources)
 
+Maybe there is **memory problem** in my code, please report this.
+
 ---------
 
 # Max Base
