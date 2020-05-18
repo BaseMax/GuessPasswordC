@@ -1,5 +1,5 @@
 // Max Base
-// https://github.com/BaseMax/FindPasswordC
+// https://github.com/BaseMax/GuessPasswordC
 #define a int
 #define b (
 #define xmjfigdfg jfdigjweoirwjeiorwer
