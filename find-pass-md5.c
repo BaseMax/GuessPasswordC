@@ -1,6 +1,7 @@
 // Max Base
 // https://github.com/BaseMax/GuessPasswordC
 // Use a implenment of md5
+// Correct password is: UIJIO67$%^&*$@!#$2df3gd1f2g
 #include <stdlib.h>
 #include <stdio.h>
 #include <string.h>
